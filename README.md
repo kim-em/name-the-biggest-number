@@ -17,3 +17,5 @@ CI checks the Lean code and the append-only submission format.
 - No shenanigans. Particularly good shenanigans may earn an honorable mention.
 
 The project uses Lean and Mathlib v4.33.1. Build it with `lake build`.
+
+This line is an intentionally invalid submission-policy test.
