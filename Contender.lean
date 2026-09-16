@@ -14,3 +14,4 @@ import Contenders.Contender7
 import Contenders.Contender8
 import Contenders.Contender9
 import Contenders.Contender10
+import Contenders.Contender11
